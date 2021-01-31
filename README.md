@@ -9,14 +9,14 @@ It's a Fabric MC mod that makes dirt sort of useful...
 
 I have planned some features to add soon
 
-# Amour/Tools
+## Amour/Tools
 
 New Tools and Armour are coming soon, they will have 2 stages, Normal Mud Armour and Tools and Cooked Mud Armour and Tools!
 
-# Planting Seeds
+## Planting Seeds
 
 You will have more farm options, more seeds to grow more types of food to eat
 
-# Very Dirty
+## Very Dirty
 
 New Dirt Types will be coming soon, they will have certain uses
