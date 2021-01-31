@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+      "item": "llamas:mud_ball"
+    },
+    "result": "llamas:dried_mud",
+    "experience": 0.35,
+    "cookingtime": 100
+  }

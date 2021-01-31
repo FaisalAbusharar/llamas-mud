@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "llamas",
+  "version": "${version}",
+
+  "name": "Llama Mud",
+  "description": "Adds cool balls and blocks",
+  "authors": [
+    "Voidy"
+  ],
+  "contact": {
+    "homepage": "https://github.com/VoidyCD",
+    "sources": ""
+  },
+
+  "license": "MIT",
+  "icon": "assets/llamas/DYPpuzy.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "voidy.llama.mud.LLmuds"
+    ]
+  },
+  "mixins": [
+    "llamas.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

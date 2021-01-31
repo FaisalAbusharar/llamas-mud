@@ -1,0 +1,18 @@
+     
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "##",
+      "##"
+    ],
+    "key": {
+      "#": {
+        "item": "llamas:dried_mud"
+      }
+    },
+    "result": {
+      "item": "llamas:mud_crack"
+    }
+  }
+  
+  

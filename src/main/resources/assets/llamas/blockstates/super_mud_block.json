@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": {
+            "model": "llamas:block/super_mud_block"
+        }
+    }
+}

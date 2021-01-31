@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+      "item": "llamas:mud_ball"
+    },
+    "result": "llamas:dried_mud",
+    "experience": 1.35,
+    "cookingtime": 50
+  }

@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+      "item": "llamas:mud_crack"
+    },
+    "result": "llamas:crack",
+    "experience": 0.35,
+    "cookingtime": 100
+  }

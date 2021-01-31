@@ -1,0 +1,20 @@
+     
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "###",
+      "###",
+      "###"
+
+    ],
+    "key": {
+      "#": {
+        "item": "llamas:mud_block"
+      }
+    },
+    "result": {
+      "item": "llamas:super_mud_block"
+    }
+  }
+  
+  
