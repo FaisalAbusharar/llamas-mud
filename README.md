@@ -5,6 +5,10 @@
 What is this exactly you may be wondering to your self?
 It's a Fabric MC mod that makes dirt sort of useful...
 
+# UPDATES
+
+Update 1.0: New Dirty Shovel and Dirty Sword, They are better than iron 0-o | Crack Block | Imporvements
+
 # Features Coming
 
 I have planned some features to add soon

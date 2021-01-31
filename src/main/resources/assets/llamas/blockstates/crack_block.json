@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": {
+            "model": "llamas:block/crack_block"
+        }
+    }
+}
