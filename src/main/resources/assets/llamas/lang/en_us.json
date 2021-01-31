@@ -5,7 +5,12 @@
     "item.llamas.dried_mud": "Dried Mud Ball",
     "block.llamas.super_mud_block": "Super Mud Block",
     "item.llamas.crack": "Crack",
-    "item.llamas.mud_crack": "Mud Crack"
+    "item.llamas.mud_crack": "Mud Crack",
+    "block.llamas.crack_block": "Crack Block",
+    "item.llamas.shovel_item": "Dirty Shovel",
+    "item.llamas.sword_item": "Dirty Sword"
+
+
 
 
 
